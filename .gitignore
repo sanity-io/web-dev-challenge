@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# Seed data
+*.tar.gz
+!seed.tar.gz
+
 # Compiled Sanity Studio
 /dist
 
