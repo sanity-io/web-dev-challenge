@@ -1,6 +1,6 @@
 # Web Dev Challenge - Sanity.io Edition
 
-Santa needs your help! He's looking to modernize his website and needs a new CMS to help him manage his content. He's heard about Sanity.io and wants to give it a try. Can you help him out?
+> The holidays are upon us and Santa’s elves are behind schedule! Build an app to get the holiday back on track.
 
 - [Web Dev Challenge - Sanity.io Edition](#web-dev-challenge---sanityio-edition)
   - [Get started](#get-started)
