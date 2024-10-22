@@ -6,13 +6,6 @@ export const structure: StructureResolver = (S) =>
   S.list()
     .title('North Pole')
     .items([
-      // CMS types
-      S.documentTypeListItem('page').title('Pages'),
-      S.documentTypeListItem('post').title('Posts'),
-      S.documentTypeListItem('event').title('Events'),
-      S.documentTypeListItem('person').title('People'),
-      S.divider(),
-
       // CRM types
       // S.documentTypeListItem('child').title('Children'),
       S.listItem()
@@ -61,6 +54,13 @@ export const structure: StructureResolver = (S) =>
       S.documentTypeListItem('supplier').title('Suppliers'),
       S.documentTypeListItem('toy').title('Toys'),
       S.documentTypeListItem('warehouse').title('Warehouses'),
+      S.divider(),
+
+      // CMS types
+      S.documentTypeListItem('page').title('Pages'),
+      S.documentTypeListItem('post').title('Posts'),
+      S.documentTypeListItem('event').title('Events'),
+      S.documentTypeListItem('person').title('People'),
       S.divider(),
 
       // Built-in types
