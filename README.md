@@ -11,6 +11,12 @@
 
 ## Get started
 
+Clone this repo, then install dependencies
+
+```bash
+pnpm install
+```
+
 Create your own Sanity Project and initialize a `.env` file with your own Project ID and Dataset name by running the following command.
 
 If you do not yet have a Sanity account, you'll be prompted to create one.
